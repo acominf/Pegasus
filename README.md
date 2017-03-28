@@ -1,18 +1,18 @@
 # Pegasus
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://github.com/acominf/Pegasus/blob/master/docs/logo.jpg)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Dar una alternativa online para los clientes de un negocio
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Página de ventas online donde con algunos clics el cliente podrá comprar todo lo que el necesite para su computadora 
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+El cliente iniciara sesión y rápidamente podrá hacer pedido de los últimos artículos que ha comprado, podrá solicitar la atención de un técnico, podrá encontrar ligas para el uso de drivers o manuales de algunos artículos.
 
 ### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+El cliente iniciara sesion y vera lo ultimos que ha comprado
 
 ### Funcionalidad 2
 La descripción de la funcionalidad 2 es ...
@@ -28,8 +28,7 @@ La descripción de la funcionalidad 5 es ...
 
 ## Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+-Javier Omar Padrón Pérez
 
 ## Materia(s)
 - Tecnologías Web
@@ -37,8 +36,4 @@ El autor(es) del proyecto son:
 ## Semestre
 - 2016-2017/II
 
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
+## Universidad autónoma de San Luis Potosí  
